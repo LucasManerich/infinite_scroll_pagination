@@ -16,7 +16,7 @@ class NewPageErrorIndicator extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: const [
               Text(
-                'Something went wrong. Tap to try again.',
+                'Algo deu errado. Toque para tentar novamente.',
                 textAlign: TextAlign.center,
               ),
               SizedBox(
