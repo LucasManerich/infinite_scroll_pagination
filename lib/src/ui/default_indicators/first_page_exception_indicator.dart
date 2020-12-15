@@ -49,7 +49,7 @@ class FirstPageExceptionIndicator extends StatelessWidget {
                       color: Colors.white,
                     ),
                     label: const Text(
-                      'Try Again',
+                      'Tentar Novamente',
                       style: TextStyle(
                         fontSize: 16,
                         color: Colors.white,
